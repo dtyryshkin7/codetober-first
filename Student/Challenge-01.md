@@ -25,5 +25,3 @@ In the year 2145, humanity had reached new heights in space exploration. The Qua
 - [GitHub.com](https://github.com/)
 - [What are GitHub Codespaces?](https://docs.github.com/en/codespaces/overview)
 
-
-[Home](../README.md) - [Next Challenge >](Challenge-02.md)
