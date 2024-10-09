@@ -13,23 +13,22 @@ Now that we have a basic understanding of version control and Git, lets learn ho
 
 - Fork the [repository](https://github.com/dtyryshkin7/codetober-files)
 
-- Enter the "Codetober" as a password to the respective field.
+- Open your local copy and enter the "Codetober" as an engine password
 
-- Push the change
+- Push/save the change
 
 ## Success Criteria
 
 - Your have the "codetober-files" repo cloned to your own github account.
-- File "months.md" has the engine password - "Codetober"
+- The local copy of the repo contains the engine password.
 
 ## Learning Resources
 
--
--
+- [Forks in GitHub](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
+- [GitHub cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
 
 ## Tips
 
-- For a concise explanation of adding files to a repository via the command line, see [here](https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository-using-the-command-line). 
-- To see how it's done in the GitHub portal, check [here](https://docs.github.com/en/github/managing-files-in-a-repository/managing-files-on-github). 
+- Try the code change not via GitHub UI, but via Codespaces!
 
 [< Previous Challenge](Challenge-00.md) - [Home](../README.md) - [Next Challenge >](Challenge-03.md)
