@@ -7,7 +7,7 @@
 Outside, the spectators gathered at a safe distance, their eyes fixed on the towering spacecraft. The media broadcasted the event worldwide, and billions of people tuned in, their hearts pounding with pride and hope.
 They have no clue the crew forgot the password to start the engine...
 
-  <img src="images/spaceshipcrew" width="512"/>
+  <img src="images/spaceshipcrew.png" width="512"/>
 
 ## Description
 
