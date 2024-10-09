@@ -1,4 +1,4 @@
-# Challenge 02 - Push, push, push!
+# Challenge 02 - The Great Engine Lockout 
 
 [< Previous Challenge](Challenge-01.md) - [Home](../README.md) - [Next Challenge >](Challenge-03.md)
 
