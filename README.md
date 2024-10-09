@@ -13,9 +13,9 @@ In this hack you will solve a common challenge for companies migrating to the cl
 1. Understand key Kubernetes management areas: scalability, networking, and monitoring
 
 ## Challenges
-- Challenge 0: **[Pre-requisites - Ready, Set, GO!](Challenges/00-prereqs.md)**
+- Challenge 1: **[Pre-requisites - Ready, Set, GO!](Challenges/00-prereqs.md)**
    - Prepare your workstation to work with Azure, Docker containers, and AKS
-- Challenge 1: **[Got Containers?](Challenges/01-containers.md)**
+- Challenge 2: **[Got Containers?](Challenges/01-containers.md)**
    - Package the app into a Docker container and run it locally.
 - Challenge 2: **[The Azure Container Registry](Challenges/02-acr.md)**
    - Deploy an Azure Container Registry and publish your container.
@@ -27,9 +27,8 @@ In this hack you will solve a common challenge for companies migrating to the cl
    - Flex Kubernetes' muscles by scaling pods, and then nodes. Observe how Kubernetes responds to resource limits.
 
 ## Contributors
-- Peter Laudati
-- Gino Filicetti
-- Israel Ekpo
-- Sowmyan Soman Chullikkattil
-- Larry Claman
 - Dmitrii Tyryshkin
+
+## Inspiration
+- [Microsoft WhatTheHack](https://microsoft.github.io/WhatTheHack/)
+- [Hera Space Mission](https://www.heramission.space/)
