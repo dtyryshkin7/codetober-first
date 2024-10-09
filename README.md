@@ -6,17 +6,17 @@ First episode of Codetober is an engaging hands-on workshop designed to introduc
 
 ## Learning Objectives
 
-1. **Collaborative Coding on GitHub:**
-   - **Repository Setup:** Learn how to create and configure repositories on GitHub.
-   - **Forking and Cloning:** Understand how to fork repositories and clone them.
-   - **Branching:** Explore the importance of branching and how to create and switch between branches.
-   - **Pull Requests and Merge:** Master the process of making changes, committing them, and creating pull requests for collaborative review.
+Collaborative Coding on GitHub:
+   - Repository Setup:** Learn how to create and configure repositories on GitHub.
+   - Forking and Cloning:** Understand how to fork repositories and clone them.
+   - Branching: Explore the importance of branching and how to create and switch between branches.
+   - Pull Requests and Merge:** Master the process of making changes, committing them, and creating pull requests for collaborative review.
 
-2. **Terraform for Azure:**
-   - **Setting Up Terraform:** Install and configure Terraform on your local machine.
-   - **Target Platform Integration:** Understand how to configure Terraform to work with target platform (Azure).
-   - **Defining and creating resources:** Learn how to write Terraform configurations to create and manage a resource group in Azure.
-   - **Applying Changes:** Practice using Terraform commands to apply your configurations and provision resources.
+2. Terraform for Azure:**
+   - Setting Up Terraform:** Install and configure Terraform on your local machine.
+   - Target Platform Integration:** Understand how to configure Terraform to work with target platform (Azure).
+   - Defining and creating resources:** Learn how to write Terraform configurations to create and manage a resource group in Azure.
+   - Applying Changes:** Practice using Terraform commands to apply your configurations and provision resources.
 
 
 By the end of this workshop, you will have a solid understanding of collaborative coding workflows on GitHub, as well as practical experience in using Terraform to manage cloud infrastructure on Azure. You'll leave with the confidence to contribute to projects, manage code collaboratively, and automate cloud resource provisioning.
