@@ -1,38 +1,44 @@
 # Challenge 04 - Data Storm incoming!
 
-[< Previous Challenge](Challenge-01.md) - [Home](../README.md) - [Next Challenge >](Challenge-03.md)
+[< Previous Challenge](Challenge-03.md) - [Home](../README.md)
 
 ## Introduction
 
-Historically, version control has been the first component that teams implement as they start on a project. It is one of the oldest and most well understood components of DevOps. Version control systems allow developers to collaborate and simultaneously contribute to the same codebase. They can also help teams track versions (so code can be rolled back if bad changes are made) and track bugs, work, and testing by the team. Please take a moment to review the [Git handbook](https://guides.github.com/introduction/git-handbook/) to understand the basics of version control, focusing on the distributed version control technology, Git.
+The Quantum Seeker had been sailing smoothly through the dark expanse of space for weeks, its mission to explore the Alpha Centauri system progressing as planned. The new captain, Jackson Carter, had quickly earned the respect and trust of his team, guiding them with a steady hand. However, the tranquility of their journey was about to be shattered. The ship's advanced sensors detected an anomaly in the distance—a massive cosmic storm, a phenomenon known to be both unpredictable and dangerous. Captain Carter was on the bridge when the alarm sounded.
+
+- "Captain, we're picking up intense electromagnetic activity ahead," reported Lieutenant Sarah Thompson, the ship's navigator. "It looks like a cosmic storm, and it's headed straight for us."
+
+Captain Carter's face hardened. He knew the severity of such storms; they could wreak havoc on the ship's systems and endanger the crew. "How long until it reaches us?" he asked.
+
+- "Approximately six hours, sir," replied Thompson.
+- 
+- "We need to make sure our IT infastructure sustains the storm" Carter instructed.
+- 
+He knew, there is only way to achieve it - define Infrastructure as Code.
+
+  <img src="images/spaceship-iac.png" width="512"/>
 
 ## Description
 
-## Create a new GitHub Repo and Commit the Sample Application Files
+- First, install Terraform on your Codespace.
+- Then, check your access to Azure Portal - you should see "rbhq-codetober-s" subscription.
+- Find service principal credentials **here** and configure environmental variables
+- Create one resource group per crew member via Azure Portal. Delete it. Try doing the same via Code. Portal was easier, right? Can you imagine deploying 10 resource groups via portal? And what about code?
+  **NOTE**: _Subscription is shared, don't delete resource groups of others!_
 
-Now that we have a basic understanding of version control and Git, lets get some code checked into source control. 
-
-- Create a new branch in your repository.
-
-- Finally, commit the files to your GitHub repository using your preferred Git client.
-
-## Use an Existing GitHub Repo with the Sample Application Files
-
+Now you are ready to go!
 
 ## Success Criteria
 
-- Your repo is cloned to your local machine and sync'd with GitHub.com
-- The `Application` and `ArmTemplates` folders are at the root of your repository
+- You have a resource groups within rbhq-codetober-s Azure subscription per crew member
+- Terraform code of the resource group is pushed to your personal folder within team crew repository.
 
 ## Learning Resources
 
-- Cloning a repository via the [command line](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) or [GitHub Desktop](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/cloning-a-repository-from-github-to-github-desktop)
-- If working with the command line, check out these articles on [commiting](https://docs.github.com/en/github/committing-changes-to-your-project/creating-and-editing-commits) and [pushing](https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository) changes.
-- Additionally, you may need to pull other people's changes into your local repository to stay in sync--see documentation for [command line](https://docs.github.com/en/github/using-git/getting-changes-from-a-remote-repository) and [GitHub Desktop](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/keeping-your-local-repository-in-sync-with-github).
-
-## Tips
-
-- For a concise explanation of adding files to a repository via the command line, see [here](https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository-using-the-command-line). 
-- To see how it's done in the GitHub portal, check [here](https://docs.github.com/en/github/managing-files-in-a-repository/managing-files-on-github). 
-
-[< Previous Challenge](Challenge-00.md) - [Home](../README.md) - [Next Challenge >](Challenge-02.md)
+[Install Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
+[Azure Portal](https://portal.azure.com)
+[What is Azure Resource Group? Creating via Portal](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resource-groups-portal#what-is-a-resource-group)
+[Authenticate to Azure with Terraform](https://learn.microsoft.com/en-us/azure/developer/terraform/authenticate-to-azure-with-service-principle?tabs=bash#specify-service-principal-credentials-in-environment-variables)
+[Terraform AzureRM provider](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs)
+[Terraform Cheat Sheet](https://spacelift.io/blog/terraform-commands-cheat-sheet)
+[Creating an Azure Resource Group with Terraform](https://learn.microsoft.com/en-us/azure/developer/terraform/create-resource-group?tabs=azure-cli)
