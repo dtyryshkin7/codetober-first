@@ -19,7 +19,7 @@ Terraform for Azure:
    - Applying Changes: Practice using Terraform commands to apply your configurations and provision resources.
 
 
-By the end of this workshop, you will have a solid understanding of collaborative coding workflows on GitHub, as well as practical experience in using Terraform to manage cloud infrastructure on Azure. You'll leave with the confidence to contribute to projects, manage code collaboratively, and automate cloud resource provisioning.
+By the end of this workshop, you will have a solid understanding of collaborative coding workflows on GitHub, as well as practical experience in using Terraform to manage cloud infrastructure on Azure. You'll leave with the confidence to contribute to projects, manage code collaboratively, and automate resource provisioning.
 
 ## Challenges
 - Challenge 1: **[Get onboard, the spaceship is taking off!](Challenges/Challenge-01.md)**
