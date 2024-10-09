@@ -13,18 +13,14 @@ In this hack you will solve a common challenge for companies migrating to the cl
 1. Understand key Kubernetes management areas: scalability, networking, and monitoring
 
 ## Challenges
-- Challenge 1: **[Pre-requisites - Ready, Set, GO!](Challenges/00-prereqs.md)**
-   - Prepare your workstation to work with Azure, Docker containers, and AKS
-- Challenge 2: **[Got Containers?](Challenges/01-containers.md)**
-   - Package the app into a Docker container and run it locally.
-- Challenge 2: **[The Azure Container Registry](Challenges/02-acr.md)**
-   - Deploy an Azure Container Registry and publish your container.
-- Challenge 3: **[Introduction To Kubernetes](Challenges/03-k8sintro.md)**
-   - Deploy an AKS cluster in Azure and verify it is running.
-- Challenge 4: **[Your First Deployment](Challenges/04-k8sdeployment.md)**
-   - Pods, Services, Deployments: Getting your YAML on! Deploy the "FabMedical" app to your AKS cluster. 
-- Challenge 5: **[Scaling and High Availability](Challenges/05-scaling.md)**
-   - Flex Kubernetes' muscles by scaling pods, and then nodes. Observe how Kubernetes responds to resource limits.
+- Challenge 1: **[Get onboard, the spaceship is taking off!](Challenges/Challenge-01.md)**
+   - Registering GitHub handle, creating first repo, getting Codespace ready
+- Challenge 2: **[The Great Engine Lockout](Challenges/Challenge-02.md)**
+   - Getting familiar with forking and pushing (no casualties)
+- Challenge 2: **[Make Spaceship Great Again](Challenges/Challenge-03.md)**
+   - Creating a shared repo, learning branch protection and what pull request is
+- Challenge 3: **[Code Against the Storm](Challenges/Challenge-04.md)**
+   - Stepping into IaC
 
 ## Contributors
 - Dmitrii Tyryshkin
