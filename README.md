@@ -12,7 +12,7 @@ Collaborative Coding on GitHub:
    - Branching: Explore the importance of branching and how to create and switch between branches.
    - Pull Requests and Merge:** Master the process of making changes, committing them, and creating pull requests for collaborative review.
 
-2. Terraform for Azure:**
+2. Terraform for Azure:
    - Setting Up Terraform:** Install and configure Terraform on your local machine.
    - Target Platform Integration:** Understand how to configure Terraform to work with target platform (Azure).
    - Defining and creating resources:** Learn how to write Terraform configurations to create and manage a resource group in Azure.
