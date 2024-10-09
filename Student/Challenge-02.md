@@ -7,6 +7,8 @@
 Outside, the spectators gathered at a safe distance, their eyes fixed on the towering spacecraft. The media broadcasted the event worldwide, and billions of people tuned in, their hearts pounding with pride and hope.
 They have no clue the crew forgot the password to start the engine...
 
+  <img src="images/crew.png" width="512"/>
+
 ## Description
 
 Now that we have a basic understanding of version control and Git, lets learn how do we collaborate on some real code.
