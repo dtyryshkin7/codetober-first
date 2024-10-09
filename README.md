@@ -1,16 +1,27 @@
-# Codetober - The Awakening
+# Codetober #1 - The Awakening
 
 ## Introduction
-This intro level hack will help you get hands-on experience with Docker, Kubernetes and the Azure Kubernetes Service (AKS) on Microsoft Azure. Kubernetes has quickly gone from being the shiny new kid on the block to the defacto way to deploy and orchestrate containerized applications.
 
-This hack starts off by covering containers, what problems they solve, and why Kubernetes is needed to help orchestrate them.  You will learn all of the Kubernetes jargon (pods, services, and deployments, oh my!).  By the end, you should have a good understanding of what Kubernetes is and be familiar with how to run it on Azure.
+First episode of Codetober is an engaging hands-on workshop designed to introduce you to collaborative coding and infrastructure management using Infrastructure as Code.
 
 ## Learning Objectives
-In this hack you will solve a common challenge for companies migrating to the cloud. You will take a simple multi-tiered web app, containerize it, and deploy it to an AKS cluster. Once the application is in AKS, you will learn how to tweak all the knobs and levers to scale, manage and monitor it.
 
-1. Containerize an application
-1. Deploy a Kubernetes cluster in Azure and deploy applications to it.
-1. Understand key Kubernetes management areas: scalability, networking, and monitoring
+1. **Collaborative Coding on GitHub:**
+   - **Repository Setup:** Learn how to create and configure repositories on GitHub.
+   - **Forking and Cloning:** Understand how to fork repositories and clone them to your local machine.
+   - **Branching:** Explore the importance of branching and how to create and switch between branches.
+   - **Pull Requests:** Master the process of making changes, committing them, and creating pull requests for collaborative review.
+   - **Merging:** Learn how to review pull requests and merge them into the main branch.
+
+2. **Terraform for Azure:**
+   - **Introduction to Terraform:** Get an overview of Terraform and its benefits for infrastructure as code (IaC).
+   - **Setting Up Terraform:** Install and configure Terraform on your local machine.
+   - **Azure Integration:** Understand how to configure Terraform to work with Azure.
+   - **Creating a Resource Group:** Learn how to write Terraform configurations to create and manage a resource group in Azure.
+   - **Applying Changes:** Practice using Terraform commands to apply your configurations and provision resources in the cloud.
+
+
+By the end of this workshop, you will have a solid understanding of collaborative coding workflows on GitHub, as well as practical experience in using Terraform to manage cloud infrastructure on Azure. You'll leave with the confidence to contribute to projects, manage code collaboratively, and automate cloud resource provisioning.
 
 ## Challenges
 - Challenge 1: **[Get onboard, the spaceship is taking off!](Challenges/Challenge-01.md)**
