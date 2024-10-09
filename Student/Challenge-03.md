@@ -1,6 +1,6 @@
 # Challenge 03 - Captain needed!
 
-[< Previous Challenge](Challenge-01.md) - [Home](../README.md) - [Next Challenge >](Challenge-03.md)
+[< Previous Challenge](Challenge-02.md) - [Home](../README.md) - [Next Challenge >](Challenge-04.md)
 
 ## Introduction
 
@@ -10,13 +10,13 @@ The Celestial Odyssey had successfully launched into the vastness of space, leav
 
 Spaceship mission is too important to have important code to be distributed here and there. Let's follow a consolidated approach.
 
-- First, define a person who is going to be hosting a central repo for the team,
+- First, define a person who is going to be hosting a central repo for the team and agree on the name of the repo (name of your spaceship!)
 - Then, make sure master branch of the spaceship is protected from direct pushes by any of the crew members.
 - Finally, all crew members should create their **own** **folders** containing crew member data in that repo (no direct pushes!)
 
 Example:
 
-myrepo/ElenaKim/profile.tf
+MyRepo/ElenaKim/profile.tf
 
 ```hcl
 resource "spaceship_crew_member" "elena_kim" {
@@ -34,13 +34,5 @@ resource "spaceship_crew_member" "elena_kim" {
 
 ## Learning Resources
 
-- Cloning a repository via the [command line](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) or [GitHub Desktop](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/cloning-a-repository-from-github-to-github-desktop)
-- If working with the command line, check out these articles on [commiting](https://docs.github.com/en/github/committing-changes-to-your-project/creating-and-editing-commits) and [pushing](https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository) changes.
-- Additionally, you may need to pull other people's changes into your local repository to stay in sync--see documentation for [command line](https://docs.github.com/en/github/using-git/getting-changes-from-a-remote-repository) and [GitHub Desktop](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/keeping-your-local-repository-in-sync-with-github).
 
-## Tips
-
-- For a concise explanation of adding files to a repository via the command line, see [here](https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository-using-the-command-line). 
-- To see how it's done in the GitHub portal, check [here](https://docs.github.com/en/github/managing-files-in-a-repository/managing-files-on-github). 
-
-[< Previous Challenge](Challenge-00.md) - [Home](../README.md) - [Next Challenge >](Challenge-02.md)
+[< Previous Challenge](Challenge-02.md) - [Home](../README.md) - [Next Challenge >](Challenge-04.md)
