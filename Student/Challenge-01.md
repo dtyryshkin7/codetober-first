@@ -1,18 +1,18 @@
-# Challenge 01 - Setup Tools
+# Challenge 01 - Get onboard, the spaceship is taking off!
 
 [Home](../README.md) - [Next Challenge >](Challenge-02.md)
 
 ## Introduction
 
-DevOps is a broad concept that encompasses people, processes, and tools. The tools you use fall into a number of categories, including version control, Continuous Integration and Continuous Deployment (CI/CD), Infrastructure-as-Code, and security scanning. Within each category, you have many choices when it comes to implementation. In this challenge, you will set up your local machine and cloud environment with the minimum requirements, but the lessons that follow will translate to any DevOps practice, regardless of tooling. 
+In the year 2145, humanity had reached new heights in space exploration. The Quantum Seeker, a state-of-the-art spaceship, stood proudly on the launch pad at the Interstellar Spaceport. It was the culmination of decades of research, engineering, and dreams. Designed to explore the outer reaches of the Milky Way, it was equipped with the latest technology, including a revolutionary warp drive. The crew, a diverse team of scientists, engineers, and explorers, busily prepared for the journey ahead. The air was thick with anticipation and excitement; they were about to embark on a mission that would push the boundaries of human knowledge.
 
 ## Description
 
-- Begin by creating a GitHub account that you can use for this hack. You may use an existing account if you have one already.
+- Begin by creating a GitHub account that you can use for the mission. You may use an existing account if you have one already.
 
-- Next, you will need to create a repository to store your future codebase.
+- Next, you will need a repository to store your future codebase.
   
-- Finally, you will need some version of IDE or text editor to complete the challenges. We suggest using [GitHub Codespaces](https://docs.github.com/en/codespaces/overview/) which can run in your browser.
+- Finally, you set up [GitHub Codespaces](https://docs.github.com/en/codespaces/overview/) which can run in your browser.
 
 
 ## Success Criteria
@@ -21,9 +21,8 @@ DevOps is a broad concept that encompasses people, processes, and tools. The too
 
 ## Learning Resources
 
-- There are many other GUI-based Git clients aside from GitHub Desktop. Feel free to explore them [here](https://git-scm.com/downloads/guis). 
-- If using VSCode as your editor, you can check [here](https://code.visualstudio.com/docs/editor/github) to learn more about the built-in Git capabilities, and integration with GitHub. Feel free to use the VSCode Git features instead of the command line or GUI client. 
-- [What is GitHub?](https://guides.github.com/activities/hello-world/)
+- [GitHub.com] (https://github.com/)
+- [What are GitHub Codespaces?] (https://docs.github.com/en/codespaces/overview)
 
 
 [Home](../README.md) - [Next Challenge >](Challenge-02.md)
