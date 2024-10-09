@@ -13,7 +13,7 @@ Now that we have a basic understanding of version control and Git, lets learn ho
 
 - Fork the [repository](https://github.com/dtyryshkin7/codetober-files)
 
-- Change "October" to "Codetober"
+- Enter the "Codetober" as a password to the respective field.
 
 - Push the change
 
