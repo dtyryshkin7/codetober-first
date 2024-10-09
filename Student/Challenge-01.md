@@ -10,9 +10,9 @@ In the year 2145, humanity had reached new heights in space exploration. The Qua
 
 - Begin by creating a GitHub account that you can use for the mission. You may use an existing account if you have one already.
 
-- Next, you will need a repository to store your future codebase.
+- Next, you will need your own repository to store your future codebase.
   
-- Finally, you set up [GitHub Codespaces](https://docs.github.com/en/codespaces/overview/) which can run in your browser.
+- Finally, you set up [GitHub Codespaces](https://docs.github.com/en/codespaces/overview/) on your repo which can run in your browser.
 
 
 ## Success Criteria
