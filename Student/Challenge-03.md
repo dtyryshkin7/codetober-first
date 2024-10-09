@@ -1,4 +1,4 @@
-# Challenge 03 - Captain needed!
+# Challenge 03 - Make spaceship great again
 
 [< Previous Challenge](Challenge-02.md) - [Home](../README.md) - [Next Challenge >](Challenge-04.md)
 
