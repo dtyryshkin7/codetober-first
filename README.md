@@ -14,13 +14,13 @@ In this hack you will solve a common challenge for companies migrating to the cl
 
 ## Challenges
 - Challenge 1: **[Get onboard, the spaceship is taking off!](Challenges/Challenge-01.md)**
-   - Registering GitHub handle, creating first repo, getting Codespace ready
+   - Cabin crew, prepare for take off
 - Challenge 2: **[The Great Engine Lockout](Challenges/Challenge-02.md)**
-   - Getting familiar with forking and pushing (no casualties)
-- Challenge 2: **[Make Spaceship Great Again](Challenges/Challenge-03.md)**
+   - Doing first steps into coding
+- Challenge 3: **[Make Spaceship Great Again](Challenges/Challenge-03.md)**
    - Creating a shared repo, learning branch protection and what pull request is
-- Challenge 3: **[Code Against the Storm](Challenges/Challenge-04.md)**
-   - Stepping into IaC
+- Challenge 4: **[Code Against the Storm](Challenges/Challenge-04.md)**
+   - Getting ready for an upcoming storm with IaC
 
 ## Contributors
 - Dmitrii Tyryshkin
