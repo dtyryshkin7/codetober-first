@@ -6,17 +6,17 @@
 
 The Quantum Seeker had been sailing smoothly through the dark expanse of space for weeks, its mission to explore the Alpha Centauri system progressing as planned. The new captain, Jackson Carter, had quickly earned the respect and trust of his team, guiding them with a steady hand. However, the tranquility of their journey was about to be shattered. The ship's advanced sensors detected an anomaly in the distance—a massive cosmic storm, a phenomenon known to be both unpredictable and dangerous. Captain Carter was on the bridge when the alarm sounded.
 
-- "Captain, we're picking up intense electromagnetic activity ahead," reported Lieutenant Sarah Thompson, the ship's navigator. "It looks like a cosmic storm, and it's headed straight for us."
+"Captain, we're picking up intense electromagnetic activity ahead," reported Lieutenant Sarah Thompson, the ship's navigator. "It looks like a cosmic storm, and it's headed straight for us."
 
 Captain Carter's face hardened. He knew the severity of such storms; they could wreak havoc on the ship's systems and endanger the crew. "How long until it reaches us?" he asked.
 
-- "Approximately six hours, sir," replied Thompson.
-- 
-- "We need to make sure our IT infastructure sustains the storm" Carter instructed.
-- 
+"Approximately six hours, sir," replied Thompson.
+
+"We need to make sure our IT infastructure sustains the storm" Carter instructed.
+
 He knew, there is only way to achieve it - define Infrastructure as Code.
 
-  <img src="images/spaceship-iac.png" width="512"/>
+<img src="images/spaceship-iac.png" width="512"/>
 
 ## Description
 
