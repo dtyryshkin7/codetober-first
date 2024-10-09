@@ -33,4 +33,3 @@ Now that we have a basic understanding of version control and Git, lets learn ho
 
 - Try the code change not via GitHub UI, but via Codespaces!
 
-[< Previous Challenge](Challenge-00.md) - [Home](../README.md) - [Next Challenge >](Challenge-03.md)
