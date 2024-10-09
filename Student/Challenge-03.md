@@ -4,25 +4,33 @@
 
 ## Introduction
 
-Historically, version control has been the first component that teams implement as they start on a project. It is one of the oldest and most well understood components of DevOps. Version control systems allow developers to collaborate and simultaneously contribute to the same codebase. They can also help teams track versions (so code can be rolled back if bad changes are made) and track bugs, work, and testing by the team. Please take a moment to review the [Git handbook](https://guides.github.com/introduction/git-handbook/) to understand the basics of version control, focusing on the distributed version control technology, Git.
+The Celestial Odyssey had successfully launched into the vastness of space, leaving Earth behind as it headed toward the Alpha Centauri system. The crew was settling into their routines, the hum of the ship's systems providing a comforting background noise. Captain Amina Valdez, who had led the mission with unwavering confidence, was overseeing the ship's navigation from the bridge. However, just a few hours into their journey, Captain Valdez began to feel unwell. At first, she dismissed it as mere fatigue from the intense preparations and launch, but the symptoms quickly escalated. She felt dizzy, her vision blurred, and a sharp pain shot through her head and she fainted. A hushed silence fell over the room. The weight of the situation was palpable. The mission was too critical to be jeopardized, and they needed a new leader to guide them through the unknowns of deep space. 
 
 ## Description
 
-## Create a new GitHub Repo and Commit the Sample Application Files
+Spaceship mission is too important to have important code to be distributed here and there. Let's follow a consolidated approach.
 
-Now that we have a basic understanding of version control and Git, lets get some code checked into source control. 
+- First, define a person who is going to be hosting a central repo for the team,
+- Then, make sure master branch of the spaceship is protected from direct pushes by any of the crew members.
+- Finally, all crew members should create their **own** **folders** containing crew member data in that repo (no direct pushes!)
 
-- Create a new branch in your repository.
+Example:
 
-- Finally, commit the files to your GitHub repository using your preferred Git client.
+myrepo/ElenaKim/profile.tf
 
-## Use an Existing GitHub Repo with the Sample Application Files
+```hcl
+resource "spaceship_crew_member" "elena_kim" {
+  name        = "Elena Kim"
+  experience  = "15 years"
+  specialty   = "Space Medicine"
+}
+```
 
 
 ## Success Criteria
 
-- Your repo is cloned to your local machine and sync'd with GitHub.com
-- The `Application` and `ArmTemplates` folders are at the root of your repository
+- There is a central repo with folders per crew member containing respective data
+- Main branch is protected from direct push and pull request requires minimum 2 reviewers to be approved!
 
 ## Learning Resources
 
