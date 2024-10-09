@@ -14,9 +14,9 @@ In this hack you will solve a common challenge for companies migrating to the cl
 
 ## Challenges
 - Challenge 1: **[Get onboard, the spaceship is taking off!](Challenges/Challenge-01.md)**
-   - Cabin crew, prepare for take off
+   - Setting up necessary prerequisites - GitHub handle, first repo, Codespace.
 - Challenge 2: **[The Great Engine Lockout](Challenges/Challenge-02.md)**
-   - Doing first steps into coding
+   - Doing first steps into coding - forking and pushing with no casualties
 - Challenge 3: **[Make Spaceship Great Again](Challenges/Challenge-03.md)**
    - Creating a shared repo, learning branch protection and what pull request is
 - Challenge 4: **[Code Against the Storm](Challenges/Challenge-04.md)**
