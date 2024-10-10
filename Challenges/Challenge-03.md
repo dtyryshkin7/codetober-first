@@ -16,8 +16,6 @@ Spaceship mission is too important to have crucial code being distributed here a
 - Then, make sure main branch of the spaceship is protected from force pushes by any of the crew members. We can't afford such risks.
 - Finally, all crew members should create their **own** **folders** containing crew member data in that repo (remember, no direct pushes!)
 
-Hint: Review pull requests in GitHub UI, there it is implemented better, Codespaces are a bit confusing.
-
 Example:
 
 MyRepo/ElenaKim/profile.tf
@@ -34,6 +32,10 @@ resource "spaceship_crew_member" "elena_kim" {
 
 - There is a central repo with folders per crew member containing respective data
 - Main branch is protected from direct push and pull request requires minimum 2 reviewers to be approved!
+
+## Hint
+
+- Review pull requests in GitHub UI, there it is implemented better, Codespaces are a bit confusing.
 
 ## Learning Resources
 
