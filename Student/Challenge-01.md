@@ -14,11 +14,27 @@ In the year 2145, humanity had reached new heights in space exploration. The Qua
 
 - Next, you will need your own repository to store your future codebase.
   
-- Finally, you set up [GitHub Codespaces](https://docs.github.com/en/codespaces/overview/) on your repo which can run in your browser.
+- Then, you set up [GitHub Codespaces](https://docs.github.com/en/codespaces/overview/) on your repo which can run in your browser.
+
+- Finally, create your first code and push it to the repo! We will create a crew member profile.
+
+Example:
+
+MyRepo/myprofile.tf
+
+```hcl
+resource "spaceship_crew_member" "elena_kim" {
+  name        = "Elena Kim"
+  experience  = "15 years"
+  specialty   = "Space Medicine"
+}
+```
+
 
 ## Success Criteria
 
-- Each member of your team has a github account, their own repo and codespace running on the repo.
+- Each member of your team has a github account, own repository and codespace running on it.
+- Each member of your team has profile-as-code in their repo.
 
 ## Learning Resources
 
