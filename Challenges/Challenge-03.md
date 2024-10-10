@@ -6,6 +6,8 @@
 
 The Celestial Odyssey had successfully launched into the vastness of space, leaving Earth behind as it headed toward the Alpha Centauri system. The crew was settling into their routines, the hum of the ship's systems providing a comforting background noise. Captain Amina Valdez, who had led the mission with unwavering confidence, was overseeing the ship's navigation from the bridge. However, just a few hours into their journey, Captain Valdez began to feel unwell. At first, she dismissed it as mere fatigue from the intense preparations and launch, but the symptoms quickly escalated. She felt dizzy, her vision blurred, and a sharp pain shot through her head and she fainted. A hushed silence fell over the room. The weight of the situation was palpable. The mission was too critical to be jeopardized, and they needed a new leader to guide them through the unknowns of deep space. 
 
+  <img src="images/captain.png" width="512"/>
+
 ## Description
 
 Spaceship mission is too important to have important code to be distributed here and there. Let's follow a consolidated approach.
