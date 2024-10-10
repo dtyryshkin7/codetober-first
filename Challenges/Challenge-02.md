@@ -17,12 +17,12 @@ Now that we have a basic understanding of version control and Git, lets learn ho
 
 - Open your local copy and enter the "Codetober" as an engine password
 
-- Push/save the change
+- Save the change in your github repositroy
 
 ## Success Criteria
 
 - Your have the "codetober-files" repo cloned to your own github account.
-- The local copy of the repo contains the engine password.
+- Your fork of the repo contains the engine password.
 
 ## Learning Resources
 
