@@ -40,5 +40,5 @@ resource "spaceship_crew_member" "elena_kim" {
 
 - [GitHub.com](https://github.com/)
 - [What are GitHub Codespaces?](https://docs.github.com/en/codespaces/overview)
-- [Staging and commiting code changes]([https://code.visualstudio.com/docs/sourcecontrol/intro-to-git](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_staging-and-committing-code-changes))
+- [Staging and commiting code changes](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_staging-and-committing-code-changes)
 
