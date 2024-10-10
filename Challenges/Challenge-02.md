@@ -11,7 +11,7 @@ They have no clue the crew forgot the password to start the engine...
 
 ## Description
 
-Now that we have a basic understanding of version control and Git, lets learn how do we collaborate on some real code.
+Now that we have a basic understanding of version control and Git, lets try forking code of others!
 
 - Fork the [repository](https://github.com/dtyryshkin7/codetober-files)
 
