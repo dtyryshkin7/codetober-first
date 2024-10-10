@@ -22,7 +22,7 @@ He knew, there is only way to achieve it - to define Infrastructure as Code.
 
 - First, install Terraform on your Codespace.
 - Then, check your access to Azure Portal - you should see "rbhq-inf-codetober-s" subscription.
-- Find service principal credentials (link in Teams) and configure environment variables in 
+- Find service principal credentials (link in Teams) and configure environment variables in following one of the links below. 
 - Create an Azure resource group per crew member via Azure Portal. Delete it. Try doing the same via Code. Portal was easier, right? Can you imagine deploying 10 resource groups via portal? And what about code?
   **NOTE**: _Subscription is shared, don't delete resource groups of others!_
 
@@ -38,3 +38,4 @@ He knew, there is only way to achieve it - to define Infrastructure as Code.
 - [What is Azure Resource Group? Creating via Portal](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resource-groups-portal#what-is-a-resource-group)
 - [Authenticate to Azure with Terraform](https://learn.microsoft.com/en-us/azure/developer/terraform/authenticate-to-azure-with-service-principle?tabs=bash#specify-service-principal-credentials-in-environment-variables)
 - [Terraform Cheat Sheet](https://spacelift.io/blog/terraform-commands-cheat-sheet)
+- [Azure Terraform Provider Example - create resource group](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs#example-usage)
