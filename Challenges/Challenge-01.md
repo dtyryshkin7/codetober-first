@@ -20,7 +20,7 @@ In the year 2145, humanity had reached new heights in space exploration. The Qua
 
 Example:
 
-MyRepo/myprofile.tf
+MyRepo/myprofile.md
 
 ```hcl
 resource "spaceship_crew_member" "elena_kim" {
