@@ -14,23 +14,21 @@ Captain Carter's face hardened. He knew the severity of such storms; they could 
 
 "We need to make sure our IT infastructure sustains the storm" Carter instructed.
 
-He knew, there is only way to achieve it - define Infrastructure as Code.
+He knew, there is only way to achieve it - to define Infrastructure as Code.
 
 <img src="images/spaceship-iac.png" width="512"/>
 
 ## Description
 
 - First, install Terraform on your Codespace.
-- Then, check your access to Azure Portal - you should see "rbhq-codetober-s" subscription.
-- Find service principal credentials **here** and configure environmental variables
-- Create one resource group per crew member via Azure Portal. Delete it. Try doing the same via Code. Portal was easier, right? Can you imagine deploying 10 resource groups via portal? And what about code?
+- Then, check your access to Azure Portal - you should see "rbhq-inf-codetober-s" subscription.
+- Find service principal credentials (link in Teams) and configure environment variables in 
+- Create an Azure resource group per crew member via Azure Portal. Delete it. Try doing the same via Code. Portal was easier, right? Can you imagine deploying 10 resource groups via portal? And what about code?
   **NOTE**: _Subscription is shared, don't delete resource groups of others!_
-
-Now you are ready to go!
 
 ## Success Criteria
 
-- You have a resource groups within rbhq-codetober-s Azure subscription per crew member
+- You have a resource groups within rbhq-inf-codetober-s Azure subscription per crew member
 - Terraform code of the resource group is pushed to your personal folder within team crew repository.
 
 ## Learning Resources
