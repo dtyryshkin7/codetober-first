@@ -14,7 +14,7 @@ In the year 2145, humanity had reached new heights in space exploration. The Qua
 
 - Next, you will need your own repository to store your future codebase (dont forget to initialize!)
   
-- Then, you set up [GitHub Codespaces](https://docs.github.com/en/codespaces/overview/) on your repo which can run in your browser.
+- Then, you set up [GitHub Codespaces](https://docs.github.com/en/codespaces/overview/) to be able to work on your code effectively.
 
 - Finally, create your first code and push it to the repo! We will create a crew member profile.
 
