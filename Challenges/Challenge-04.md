@@ -30,7 +30,7 @@ He knew, there is only way to achieve it - to define Infrastructure as Code.
 
 - You have a resource group within rbhq-inf-codetober-s Azure subscription per crew member created via Terraform
 - Terraform code of the resource group is available in your personal folder within team crew repository.
-- **Hint**: If you have spare time, be curious! Try destroying the resource group via terraform, changing its name and see what happends, try deploying several groups at once!
+- ***Optional*** If you have spare time, be curious! Try destroying the resource group via terraform, changing its name and see what happends, try deploying several groups at once!
 
 ## Learning Resources
 
