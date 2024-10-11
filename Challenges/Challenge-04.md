@@ -28,8 +28,8 @@ He knew, there is only way to achieve it - to define Infrastructure as Code.
 
 ## Success Criteria
 
-- You have a resource groups within rbhq-inf-codetober-s Azure subscription per crew member
-- Terraform code of the resource group is pushed to your personal folder within team crew repository.
+- You have a resource group within rbhq-inf-codetober-s Azure subscription per crew member created via Terraform
+- Terraform code of the resource group is available in your personal folder within team crew repository.
 
 ## Learning Resources
 
