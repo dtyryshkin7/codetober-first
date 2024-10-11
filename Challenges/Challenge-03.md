@@ -30,8 +30,9 @@ resource "spaceship_crew_member" "elena_kim" {
 
 ## Success Criteria
 
-- There is a central repo with folders per crew member containing respective data
+- There is a central repo for team
 - Main branch is protected from direct push and pull request requires minimum 2 reviewers to be approved!
+- Each crew member has their folder in the repo added via pull request
 
 ## Hint
 
