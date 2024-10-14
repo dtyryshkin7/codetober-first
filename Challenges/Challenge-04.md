@@ -38,6 +38,7 @@ He knew, there is only way to achieve it - to define Infrastructure as Code.
 - [Azure Portal](https://portal.azure.com)
 - [What is Azure Resource Group? Creating via Portal](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resource-groups-portal#what-is-a-resource-group)
 - [Authenticate to Azure with Terraform](https://learn.microsoft.com/en-us/azure/developer/terraform/authenticate-to-azure-with-service-principle?tabs=bash#specify-service-principal-credentials-in-environment-variables)
+- [Terraform gitignore](https://github.com/github/gitignore/blob/main/Terraform.gitignore)
 - [Terraform Cheat Sheet](https://spacelift.io/blog/terraform-commands-cheat-sheet)
 - [Terraform project structure explained](https://spacelift.io/blog/terraform-files)
 - [Azure Terraform Provider Example - create resource group](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs#example-usage)
