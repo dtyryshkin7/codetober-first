@@ -18,7 +18,7 @@ Spaceship mission is too important to have crucial code being distributed here a
 
 Example:
 
-MyRepo/ElenaKim/profile.tf
+MyRepo/ElenaKim/profile.md
 
 ```hcl
 resource "spaceship_crew_member" "elena_kim" {
