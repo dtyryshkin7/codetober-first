@@ -23,7 +23,7 @@ He knew, there is only way to achieve it - to define Infrastructure as Code.
 - First, install Terraform on your Codespace using [script](../Files/terraform-install.sh)
 - Then, check your access to Azure Portal - you should see "rbhq-inf-codetober-s" subscription.
 - Configure environment variables for the service account using another [script](../Files/envs.sh). Please don't commit the secret to the repo ;)
-- Create [.gitignore](../Files/.gitignore) file that will ignore all unnecessary or sensitive files to be commited to the repository.
+- Create one [.gitignore](../Files/.gitignore) in the root folder of your repo. That that will ignore all unnecessary or sensitive files to be commited to the repository.
 - Create an Azure resource group per crew member via Azure Portal. Delete it. Try doing the same via Code. Portal was easier, right? Can you imagine deploying 10 resource groups via portal? And what about code?
   
 ## Success Criteria
