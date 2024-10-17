@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Variables to be added
-ARM_SUBSCRIPTION_ID="<azure_subscription_id>"
-ARM_TENANT_ID="<azure_subscription_tenant_id>"
-ARM_CLIENT_ID="<service_principal_appid>"
-ARM_CLIENT_SECRET="<service_principal_password>"
+ARM_TENANT_ID="a01b3b4a-1448-4fe9-b967-00927abe0460"
+ARM_SUBSCRIPTION_ID="188dd07d-1c82-4670-b997-7424ca13d4e6"
+ARM_CLIENT_ID="7360afe4-09db-4368-ae4f-fbf639a88a60"
+ARM_CLIENT_SECRET="CHANGEMEUSINGSECRETSHARE"
 
 # Function to add variable to .bashrc if it doesn't already exist
 add_variable_to_bashrc() {
