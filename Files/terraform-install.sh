@@ -13,6 +13,7 @@ sudo apt-add-repository "deb [arch=amd64] https://apt.releases.hashicorp.com $(l
 # Update to add the repository and install Terraform
 sudo apt-get update -y
 sudo apt-get install -y terraform
+sudo apt-get install -y azure-cli
 
 # Verify the installation
 terraform --version
